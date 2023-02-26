@@ -1,0 +1,45 @@
+#2-4b
+"""
+#1.)
+x=8
+y=2
+#a.) 8+6
+z= x +y *3
+print(z)
+#b.) 10*3
+z= (x+y)*3
+print(z)
+#c.) 8^2
+z=x**y
+print(z)
+#d.) Remainders = 0 so the answer is 0 if the question was 9%2 it would be 1 since 2*4=8 +1
+z=x%y
+print(z)
+#e.) 8/12.0
+z=x/12.0
+print(z)
+#f.) 8//6 6 only divides 1 time to the answer is 1
+z=x//6
+print(z)
+"""
+#2.)
+"""
+x=4.66
+#a.) will turn into 5 b/c 4.66 is closer to 5
+z=round(4.66)
+print(z)
+#b.) will turn to 4 since you remove decimals in a int; it can be 4.99 but will still round down to 4 
+z=int(4.66)
+print(z)
+"""
+
+#3.)
+#so how this will work is it will take the decimal number and round it up just like normal
+
+#4.)
+#use the str value to convert to a string afterwards use the + value to add
+
+#5.)
+x=55
+x+=1
+print(x)
